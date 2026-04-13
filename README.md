@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter [FinTexh, EdTech & Work Management products] & Spring Boot [ECommerce Backend Services].<br>
+🔭 I’m currently working on Flutter [FinTech, EdTech & Work Management products] & Spring Boot [LMS & ECommerce Backend Services].<br>
 👯 I’m looking to collaborate on full stack system development [Mobile + Backend (Spring Boot, Python)].<br>
 💬 Ask me about tech, mobile & backend apps development & system designing.<br>
 ⚡ You can find me around literature [Hindi, Urdu] when I am not at work.
